@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameFloor
+  - Portal
+  - LeftPortal
+  - BG
+  - Enemy
+  - npc
+  - King Slime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Background
+  - Floor
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: SkyBG
+    uniqueID: 244402901
+    locked: 0
+  - name: TreeBG
+    uniqueID: 2681028637
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3546824159
+    locked: 0
+  - name: Portal
+    uniqueID: 1245034941
+    locked: 0
+  - name: Player
+    uniqueID: 3622752767
+    locked: 0
